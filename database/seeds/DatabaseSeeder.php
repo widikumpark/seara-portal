@@ -15,7 +15,7 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
             ///remove product seeder in development
-            ProductSeeder::class,
+            // ProductSeeder::class,
             CountriesSeeder::class,
             PortsSeeder::class,
             UserSeeder::class,
