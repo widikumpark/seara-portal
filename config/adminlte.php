@@ -15,7 +15,7 @@ return [
     */
 
     'title' => 'Place & Manage Orders, Manage Invoices and Documents, Inventory Manager',
-    'title_prefix' => 'Cargill E-Portal',
+    'title_prefix' => 'SEARA E-Portal',
     'title_postfix' => '',
 
     /*

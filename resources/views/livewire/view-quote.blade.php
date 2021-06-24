@@ -25,7 +25,7 @@
                                     <div class="row">
                                         <div class="col-12">
                                             <h4>
-                                                <i class="fas fa-globe"></i> CARGILL GLOBAL
+                                                <i class="fas fa-globe"></i> SEARA 
                                                 <small class="float-right">Date: {{ $currentQuote->created_at }}</small>
                                             </h4>
                                         </div>
@@ -36,7 +36,7 @@
                                         <div class="col-sm-4 invoice-col">
                                             From
                                             <address>
-                                                <strong>CARGILL GLOBAL</strong><br>
+                                                <strong>SEARA</strong><br>
                                                 {{ config('company.address_1') }}<br>
                                                 {{ config('company.address_2') }}<br>
                                                 Phone: {{ config('company.phone') }}<br>

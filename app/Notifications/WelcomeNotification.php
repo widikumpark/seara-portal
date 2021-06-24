@@ -43,8 +43,8 @@ class WelcomeNotification extends Notification
     {
         return (new MailMessage)
         ->greeting('Hi '. $this->user->name.',')
-        ->subject('Welcome to Cargill online portal')
-                    ->line('Welcome To Cargill Online Portal!')->with('You can now access our thousands of products, place orders and get your orders shipped over to you seamlessly')
+        ->subject('Welcome to SEARA online portal')
+                    ->line('Welcome To SEARA Online Portal!')->with('You can now access our thousands of products, place orders and get your orders shipped over to you seamlessly')
                     ->action('Login to continue', url('/login'));
     }
 
@@ -58,7 +58,7 @@ class WelcomeNotification extends Notification
     {
         return [
             //
-            'message'=>'Welcome To Cargill. You can now browse and order our products online.'
+            'message'=>'Welcome To SEARA. You can now browse and order our products online.'
         ];
     }
 }

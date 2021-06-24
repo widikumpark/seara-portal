@@ -16,7 +16,7 @@
                                         class="fa fa-quote-left"></div>
                                 <div class="text">
                                     <p class="mb-4">Buying and shipping to New Zealand has never been easier. Our business
-                                        saw a 150% increase in revenue within 6 months by using the Cargill E-Portal.</p>
+                                        saw a 150% increase in revenue within 6 months by using the SEARA E-Portal.</p>
                                     <div class="d-flex align-items-center">
                                         <div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                                         <div class="pl-3">

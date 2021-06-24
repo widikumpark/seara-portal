@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Cargill E-Portal - @yield('title')</title>
+    <title>SEARA E-Portal - @yield('title')</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -27,7 +27,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
             <a class="navbar-brand" href="{{ route('home') }}"><img class="img-fluid" src="images/logo.png"
-                    alt="Cargill E-Portal"></a>
+                    alt="SEARA E-Portal"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
                 aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="oi oi-menu"></span> Menu
@@ -59,8 +59,8 @@
                 <div class="col-sm-12 col-md">
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2 logo"><a href="{{ route('home') }}"><img class="img-fluid"
-                                    src="images/logo-white.png" alt="Cargill E-Portal"></a></h2>
-                        <p>Cargill E-Portal - Place & Manage Orders, Manage Invoices and Documents, Inventory Manager
+                                    src="images/logo-white.png" alt="SEARA E-Portal"></a></h2>
+                        <p>SEARA E-Portal - Place & Manage Orders, Manage Invoices and Documents, Inventory Manager
                         </p>
                         <ul class="ftco-footer-social list-unstyled mt-5">
                             <li class="ftco-animate"><a href="https://twitter.com/Cargill"><span

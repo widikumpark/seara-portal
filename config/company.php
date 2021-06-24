@@ -1,6 +1,6 @@
 <?php
 return [
-    'name'=>'Cargill',
+    'name'=>'SEARA',
     'address_1'=>'P.O. Box 9300',
     'address_2'=>'Minnesota (MN 55440)',
     'country'=>'United States',

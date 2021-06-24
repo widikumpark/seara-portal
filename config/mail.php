@@ -85,7 +85,7 @@ return [
 
     'from' => [
         'address' => env('MAIL_FROM_ADDRESS', 'export@searaalimentos.br.com'),
-        'name' => env('MAIL_FROM_NAME', 'Cargill International'),
+        'name' => env('MAIL_FROM_NAME', 'SEARA International'),
     ],
 
     /*

@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 heading-section text-center ftco-animate mb-5">
-                    <span class="subheading">Cargill E-Platform Services</span>
+                    <span class="subheading">SEARA E-Platform Services</span>
                     <h2 class="mb-2">Our Services &amp; Offers</h2>
                 </div>
             </div>
