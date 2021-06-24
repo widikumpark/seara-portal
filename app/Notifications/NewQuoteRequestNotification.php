@@ -47,7 +47,7 @@ class NewQuoteRequestNotification extends Notification
         ->line('Your new quote #'.$this->quote->number.' has been requested')
         ->line("We will process your request and get back to you with an update.")
         ->action('View Quote', url('/view-quote/'.$this->quote->number))
-        ->line('For updates or questions, email exports@br-cargill.com');
+        ->line('For updates or questions, email export@searaalimentos.br.com');
     }
 
     /**

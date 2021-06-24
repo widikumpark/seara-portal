@@ -47,7 +47,7 @@ class NewSupportTicketNotification extends Notification
         ->line('Your support ticket for #'.$this->ticket->ticket_number.' has been created.')
         ->line("We will process your ticket and get back to you with an update.")
         ->action('View Tickets', url('/support'))
-        ->line('For updates or questions, email exports@br-cargill.com');
+        ->line('For updates or questions, email export@searaalimentos.br.com');
     }
 
     /**

@@ -48,7 +48,7 @@ class PaymentAddedNotification extends Notification
         ->line('Your payment receipt for #'.$this->payment->order_number.' has been received.')
         ->line("We will process your payment and get back to you with an update.")
         ->action('View Payments', url('/payments'))
-        ->line('For updates or questions, email exports@br-cargill.com');
+        ->line('For updates or questions, email export@searaalimentos.br.com');
     }
 
     /**

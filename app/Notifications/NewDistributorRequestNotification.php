@@ -48,7 +48,7 @@ class NewDistributorRequestNotification extends Notification
         ->line("Payment by: ".$this->distributor_request->payment_method)
         ->line("Refundable Deposit: USD $".$this->distributor_request->package_cost)
         ->line("Payment instructions and further documentation will be emailed to you soonest.")
-        ->line('For updates or questions, email exports@br-cargill.com');
+        ->line('For updates or questions, email export@searaalimentos.br.com');
     }
 
     /**
